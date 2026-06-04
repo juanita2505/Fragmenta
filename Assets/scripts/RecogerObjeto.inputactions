@@ -38,6 +38,17 @@
                     "action": "RecogerObjeto",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cf7a2db4-d7aa-4b64-8b8c-4589ede25001",
+                    "path": "<XRController>{RightHand}/{TriggerButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RecogerObjeto",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }
